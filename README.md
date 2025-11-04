@@ -1,6 +1,6 @@
 # 💻 Christophe Bordessoule - Software Developer
 
-**`Aspiring Full-Stack Developer`**
+**`Aspiring Software Developer`**
 
 **French-Australian developer | Professional bug creator | "*It worked on my machine*"**
 
