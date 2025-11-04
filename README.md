@@ -1,16 +1,34 @@
-## Hi there 👋
+# 💻 Christophe Bordessoule - Software Developer
 
-<!--
-**ctrl-chris/ctrl-chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Aspiring Full-Stack Developer`**
 
-Here are some ideas to get you started:
+**French-Australian developer | Professional bug creator | "*It worked on my machine*"**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+def fix_bug():
+    import os
+    print("This should work...")
+    os.system("rm -rf /")
+    return "Bug fixed... probably"
+```
+
+Currently studying computer science with a focus on software engineering principles. Exploring data structures, algorithms, and system design while building practical projects.
+
+---
+
+## 🔧 Development Stack
+
+<div align="center">
+  <img alt="Python" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="JavaScript" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Java" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Git" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Linux" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <br/>
+  <br/>
+</div>
+
+<div align="center">
+  
+**"Works on my machine. Production is someone else's problem."** - Christophe
+</div>
