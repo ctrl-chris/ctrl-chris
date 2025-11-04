@@ -1,6 +1,6 @@
-# 💻 Christophe Bordessoule - Software Engineer
+# 💻 Christophe - Coding Enthusiast 
 
-**`Aspiring Software Engineer`**
+**`Aspiring Software Developer`**
 
 **French-Australian developer | Professional bug creator | "*It worked on my machine*"**
 
